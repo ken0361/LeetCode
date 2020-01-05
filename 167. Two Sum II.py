@@ -9,6 +9,3 @@ def twoSum(numbers, target):
             left+=1
         else:
             right-=1
-
-            
-print(twoSum([2, 3, 6, 8, 10], 16))
