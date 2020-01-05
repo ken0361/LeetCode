@@ -7,6 +7,4 @@ def twoSum(nums, target):
             if i+j == target:
                 return k, l
         k += 1
-            
         
-print(twoSum([2, 71, 8, 14, 7, 15], 17))
