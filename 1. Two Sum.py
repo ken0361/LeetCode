@@ -7,4 +7,3 @@ def twoSum(nums, target):
             if i+j == target:
                 return k, l
         k += 1
-        
