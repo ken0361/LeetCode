@@ -9,5 +9,4 @@ def reverse(x):
         return x
     else:
         return 0
-
-print(reverse(1534236469))
+    
