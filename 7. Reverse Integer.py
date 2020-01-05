@@ -9,4 +9,3 @@ def reverse(x):
         return x
     else:
         return 0
-    
